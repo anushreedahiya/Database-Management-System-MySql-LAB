@@ -1,1 +1,1 @@
-###### College related DBMSLab woed documents
+###### College related DBMSLab word documents
